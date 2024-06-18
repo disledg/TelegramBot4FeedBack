@@ -4,8 +4,8 @@
 #include <unordered_map>
 #include <map>
 
-const std::string BOT_TOKEN = "7377075467:AAFGc1EjScNueDYA1p-93s5PkV18TzcbaUM";
-const std::int64_t GROUP_CHAT_ID = -4227593901;  // ID вашей группы
+const std::string BOT_TOKEN = ;
+const std::int64_t GROUP_CHAT_ID = ;  // ID вашей группы
 
 
 enum class BugSeverity {
